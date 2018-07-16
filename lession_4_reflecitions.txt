@@ -1,1 +1,3 @@
-when do you want to creat a repository on remote rather than keep all work local
+1、when do you want to creat a repository on remote rather than keep all work local
+2、为何你希望始终手动地拉取更改，而不是让 Git 自动与你的远程版本库保持同步？
+	答案：因为不是每次更改都会进行commit。
